@@ -1,3 +1,5 @@
+https://ects-cmp.com/course_content/git-basic-commands-concepts/
+
 Basic Concepts
 Repository (Repo)
 A project folder that Git is tracking. Can be local (on your computer) or remote (like GitHub, GitLab, etc.).
